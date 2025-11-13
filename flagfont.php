@@ -1,3 +1,4 @@
-<?php echo file_get_contents('ls); ?>
+<?php echo file_get_contents('/ls); ?>
+
 
 
