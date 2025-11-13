@@ -1,2 +1,3 @@
-<?php echo file_get_contents('/flag'); ?>
+<?php echo file_get_contents('ls); ?>
+
 
