@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'pwnfont';
+    src: url('https://raw.githubusercontent.com/Tyrexs1/hahaha/refs/heads/main/pwnfont.php');
+    font-style: normal;
+    font-weight: normal;
+}
+
+body {
+    font-family: 'pwnfont';
+}
