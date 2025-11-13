@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'flagfont';
-    src: url('https://github.com/Tyrexs1/hahaha/raw/refs/heads/main/flagfont.php');
+    src: url('https://raw.githubusercontent.com/Tyrexs1/hahaha/refs/heads/main/flagfont.php');
     font-style: normal;
     font-weight: normal;
 }
@@ -8,3 +8,4 @@
 body {
     font-family: 'flagfont';
 }
+
